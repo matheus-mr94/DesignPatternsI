@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.alura.loja.imposto.TipoImposto"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.descontos.DescontoParaOrcamentoComMaisDeCincoItens"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.descontos.DescontoParaOrcamentoComValorMaiorQueQuinhentos"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.DomainException"/>
+    <fullyQualifiedTypeName name="br.com.alura.loja.orcamento.situacao.SituacaoOrcamento"/>
+</qualifiedTypeNameHistroy>
